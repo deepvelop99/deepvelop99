@@ -7,7 +7,7 @@
 <br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-deepvelop99-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepvelop99)
-[![University](https://img.shields.io/badge/Soongsil_University-Master's-1d4ed8?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAzTDEgOWw0IDIuMThWMTdoMTR2LTUuODJMMyAxMy42MVYxMmw5LTVMMjEgMTJ2MS42MWwtNCAyLjIyVjE3aDRWOS4xOEwxMiAzeiIvPjwvc3ZnPg==&logoColor=white)](https://ssu.ac.kr)
+[![University](https://img.shields.io/badge/Soongsil_University-Master's-1d4ed8?style=for-the-badge)](https://ssu.ac.kr)
 [![Profile Views](https://komarev.com/ghpvc/?username=deepvelop99&color=fbbf24&style=for-the-badge&label=Views)](https://github.com/deepvelop99)
 
 </div>
@@ -18,7 +18,7 @@
 
 > *"I find the gaps existing methods overlook — then build the data or framework to close them."*
 
-I'm a Master's researcher at **Soongsil University** working across **Neural Rendering**, **Generative AI**, and **Embodied AI**. Rather than solving well-defined problems, I start by asking *what problem no one has addressed yet* — and then build whatever is needed to answer it.
+I'm a Master's researcher at **Soongsil University** working across **Neural Rendering**, **Generative AI**, and **Embodied AI**. Rather than solving well-defined problems, I start by asking *what problem no one has addressed yet* — and build whatever is needed to answer it.
 
 My research follows two consistent threads:
 
@@ -39,13 +39,52 @@ My strongest trait is **adaptability** — each of these five projects spans a d
 
 | Year | Paper | Venue | Role |
 |:----:|:------|:-----:|:----:|
-| 2026 | 🟢 **[CulinaryCut](https://github.com/deepvelop99/ECCV26-Culinary)** — Physics-aware VLA Benchmark via Material Point Method | ![](https://img.shields.io/badge/ECCV_2026-Under_Review-f97316?style=flat-square) | **Primary** |
+| 2026 | 🟢 **[CulinaryCut](https://github.com/deepvelop99/ECCV26-Culinary)** — Physics-aware VLA Benchmark via Material Point Method | ![](https://img.shields.io/badge/ECCV_2026-Accepted-2ea44f?style=flat-square) | **Primary** |
 | 2026 | 🟢 **CLP** — Real-World Contaminated Lens Protectors Dataset for Robust Segmentation | ![](https://img.shields.io/badge/CVPR_2026-Accepted-2ea44f?style=flat-square) | 2nd Author |
 | 2025 | 🟢 **FEEL** — Emotion-Enriched Text-to-Motion Generation via Unpaired Learning | ![](https://img.shields.io/badge/CVPR_WS_2025-Accepted-2ea44f?style=flat-square) | Co-first * |
 | 2025 | 🟢 **[UDT](https://github.com/deepvelop99/UDT)** — Unsupervised Discovery of Transformations in Diffusion Models | ![](https://img.shields.io/badge/BMVC_2025-Accepted-2ea44f?style=flat-square) | Co-first * |
 | 2025 | 🟢 **[IPRF](https://github.com/deepvelop99/IPRF-Intrinsic-Guided-Photorealistic_Style-Transfer-for-Radiance-Fields)** — Intrinsic-Guided Photorealistic Style Transfer for Radiance Fields | ![](https://img.shields.io/badge/ACMMM_WS_2025-Accepted-2ea44f?style=flat-square) | **Primary** |
 
 <sub>* equal contribution</sub>
+
+---
+
+## 🗓 Research Journey
+
+<div align="center">
+
+| | **IPRF** | **UDT** | **FEEL** | **CLP** | **CulinaryCut** |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| 📅 Year | 2024 | 2025 | 2025 | 2025 | 2026 |
+| 🔬 Area | Neural Rendering | Generative AI | Motion Gen. | Perception | VLA Robotics |
+| 🏆 Venue | ACMMM WS | BMVC | CVPR WS | CVPR | ECCV |
+| ✍️ Role | Primary | Co-first * | Co-first * | 2nd Author | Primary |
+
+</div>
+
+<div align="center">
+
+```
+2024 ─────────────────────────────────── 2026
+  │                                        │
+IPRF       UDT      FEEL      CLP    CulinaryCut
+Neural    Diffusion  Motion  Dataset    Physics
+Rendering   Model    Gen.    Build.      VLA
+```
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![CulinaryCut](https://github-readme-stats.vercel.app/api/pin/?username=deepvelop99&repo=ECCV26-Culinary&bg_color=0d1117&title_color=fbbf24&icon_color=10b981&text_color=e6edf3&hide_border=true)](https://github.com/deepvelop99/ECCV26-Culinary)
+[![IPRF](https://github-readme-stats.vercel.app/api/pin/?username=deepvelop99&repo=IPRF-Intrinsic-Guided-Photorealistic_Style-Transfer-for-Radiance-Fields&bg_color=0d1117&title_color=fbbf24&icon_color=10b981&text_color=e6edf3&hide_border=true)](https://github.com/deepvelop99/IPRF-Intrinsic-Guided-Photorealistic_Style-Transfer-for-Radiance-Fields)
+[![UDT](https://github-readme-stats.vercel.app/api/pin/?username=deepvelop99&repo=UDT&bg_color=0d1117&title_color=fbbf24&icon_color=10b981&text_color=e6edf3&hide_border=true)](https://github.com/deepvelop99/UDT)
+
+</div>
 
 ---
 
@@ -69,27 +108,6 @@ My strongest trait is **adaptability** — each of these five projects spans a d
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=deepvelop99&show_icons=true&hide_border=true&bg_color=0d1117&title_color=fbbf24&icon_color=10b981&text_color=e6edf3&ring_color=fbbf24" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepvelop99&layout=compact&hide_border=true&bg_color=0d1117&title_color=fbbf24&text_color=e6edf3" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepvelop99&theme=github-dark-blue&hide_border=true&ring=fbbf24&fire=f97316&currStreakLabel=fbbf24&sideLabels=fbbf24" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepvelop99&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=8" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=deepvelop99&bg_color=0d1117&color=fbbf24&line=10b981&point=e6edf3&area=true&hide_border=true" />
-</div>
 
 ---
 
