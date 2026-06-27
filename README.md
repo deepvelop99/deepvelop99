@@ -1,14 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050017,40:1a0050,100:0a0828&height=220&section=header&text=Hyunseo%20Koh&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=AI%20Researcher%20%40%20Soongsil%20University%20%C2%B7%20%EA%B3%A0%ED%98%84%EC%84%9C&descSize=19&descAlignY=58&descColor=22d3ee&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hyunseo%20Koh&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=AI%20Researcher%20%40%20Soongsil%20University%20%C2%B7%20%EA%B3%A0%ED%98%84%EC%84%9C&descSize=19&descAlignY=58&descColor=fbbf24&animation=fadeIn"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=22D3EE&center=true&vCenter=true&width=780&height=35&lines=5+Papers+%7C+CVPR+%C2%B7+ECCV+%C2%B7+BMVC+%C2%B7+ACMMM;Neural+Rendering+%C2%B7+Generative+AI+%C2%B7+Embodied+AI+%C2%B7+VLA+Robotics;Finding+research+gaps+%E2%86%92+solving+with+data+%26+design;Master's+Candidate+%7C+Soongsil+University" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=FBBF24&center=true&vCenter=true&width=780&height=35&lines=5+Papers+%7C+CVPR+%C2%B7+ECCV+%C2%B7+BMVC+%C2%B7+ACMMM;Neural+Rendering+%C2%B7+Generative+AI+%C2%B7+VLA+Robotics;Finding+research+gaps+%E2%86%92+solving+with+data+%26+design;Master%27s+Candidate+%7C+Soongsil+University" alt="Typing SVG" />
 
 <br/><br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-deepvelop99-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepvelop99)
-[![University](https://img.shields.io/badge/Soongsil_University-Master's_Student-003087?style=for-the-badge)](https://ssu.ac.kr)
-[![Profile Views](https://komarev.com/ghpvc/?username=deepvelop99&color=22d3ee&style=for-the-badge&label=Profile+Views)](https://github.com/deepvelop99)
+[![University](https://img.shields.io/badge/Soongsil_University-Master's-1d4ed8?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAzTDEgOWw0IDIuMThWMTdoMTR2LTUuODJMMyAxMy42MVYxMmw5LTVMMjEgMTJ2MS42MWwtNCAyLjIyVjE3aDRWOS4xOEwxMiAzeiIvPjwvc3ZnPg==&logoColor=white)](https://ssu.ac.kr)
+[![Profile Views](https://komarev.com/ghpvc/?username=deepvelop99&color=fbbf24&style=for-the-badge&label=Views)](https://github.com/deepvelop99)
 
 </div>
 
@@ -16,31 +16,22 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
-const hyunseoKoh = {
-  name:        "Hyunseo Koh · 고현서",
-  institution: "Soongsil University — AI Research Lab",
-  degree:      "Master's Candidate (Jun. 2026)",
+> *"I find the gaps existing methods overlook — then build the data or framework to close them."*
 
-  research_philosophy: [
-    "① Find gaps that existing methods overlook",
-    "② Solve them — with new data or framework design",
-  ],
+I'm a Master's researcher at **Soongsil University** working across **Neural Rendering**, **Generative AI**, and **Embodied AI**. Rather than solving well-defined problems, I start by asking *what problem no one has addressed yet* — and then build whatever is needed to answer it.
 
-  topics: [
-    "Neural Rendering (NeRF, 3DGS, Plenoxels)",
-    "Generative Models (Diffusion, Fine-Grained)",
-    "Text-to-Motion Generation",
-    "Embodied AI / VLA Robotics",
-    "Robust Perception & Dataset Construction",
-  ],
+My research follows two consistent threads:
 
-  strength:  "High adaptability across diverse research domains",
-  papers:    { accepted: 4, under_review: 1 },
-  primary:   ["IPRF (ACMMM WS)", "CLP (CVPR)"],
-  cofirst:   ["UDT (BMVC)", "FEEL (CVPR WS)"],
-};
-```
+🔹 **Gap → Data** &nbsp; When the right dataset doesn't exist, I build it from scratch.
+&nbsp;&nbsp;&nbsp;&nbsp; *CulinaryCut*: first physics-aware VLA benchmark via MPM simulation (ECCV 2026)
+&nbsp;&nbsp;&nbsp;&nbsp; *CLP*: first real-world paired lens-contamination segmentation dataset (CVPR 2026)
+
+🔸 **Gap → Design** &nbsp; When existing representations fall short, I redesign the framework.
+&nbsp;&nbsp;&nbsp;&nbsp; *IPRF*: intrinsic decomposition for geometry-preserving NeRF style transfer (ACMMM WS 2025)
+&nbsp;&nbsp;&nbsp;&nbsp; *UDT*: hierarchy-aware contrastive loss for consistent diffusion transformations (BMVC 2025)
+&nbsp;&nbsp;&nbsp;&nbsp; *FEEL*: unpaired learning to inject emotion into text-to-motion generation (CVPR WS 2025)
+
+My strongest trait is **adaptability** — each of these five projects spans a different subfield, yet all follow the same problem-first philosophy.
 
 ---
 
@@ -48,13 +39,13 @@ const hyunseoKoh = {
 
 | Year | Paper | Venue | Role |
 |:----:|:------|:-----:|:----:|
-| 2026 | 🔴 **[CulinaryCut](https://github.com/deepvelop99/ECCV26-Culinary)** — Physics-aware VLA Benchmark via Material Point Method | ![](https://img.shields.io/badge/ECCV_2026-Under_Review-orange?style=flat-square) | Co-author |
-| 2026 | 🟢 **CLP** — Real-World Contaminated Lens Protectors Dataset for Robust Semantic Segmentation | ![](https://img.shields.io/badge/CVPR_2026-Accepted-2ea44f?style=flat-square) | **Primary** |
+| 2026 | 🔴 **[CulinaryCut](https://github.com/deepvelop99/ECCV26-Culinary)** — Physics-aware VLA Benchmark via Material Point Method | ![](https://img.shields.io/badge/ECCV_2026-Under_Review-f97316?style=flat-square) | **Primary** |
+| 2026 | 🟢 **CLP** — Real-World Contaminated Lens Protectors Dataset for Robust Segmentation | ![](https://img.shields.io/badge/CVPR_2026-Accepted-2ea44f?style=flat-square) | 2nd Author |
 | 2025 | 🟢 **FEEL** — Emotion-Enriched Text-to-Motion Generation via Unpaired Learning | ![](https://img.shields.io/badge/CVPR_WS_2025-Accepted-2ea44f?style=flat-square) | Co-first * |
 | 2025 | 🟢 **[UDT](https://github.com/deepvelop99/UDT)** — Unsupervised Discovery of Transformations in Diffusion Models | ![](https://img.shields.io/badge/BMVC_2025-Accepted-2ea44f?style=flat-square) | Co-first * |
 | 2025 | 🟢 **[IPRF](https://github.com/deepvelop99/IPRF-Intrinsic-Guided-Photorealistic_Style-Transfer-for-Radiance-Fields)** — Intrinsic-Guided Photorealistic Style Transfer for Radiance Fields | ![](https://img.shields.io/badge/ACMMM_WS_2025-Accepted-2ea44f?style=flat-square) | **Primary** |
 
-<sub>* equal contribution &nbsp;|&nbsp; 🟢 Accepted &nbsp;·&nbsp; 🔴 Under Review</sub>
+<sub>* equal contribution</sub>
 
 ---
 
@@ -84,12 +75,12 @@ const hyunseoKoh = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=deepvelop99&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=6366f1&text_color=e6edf3&ring_color=22d3ee" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepvelop99&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=e6edf3" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=deepvelop99&show_icons=true&hide_border=true&bg_color=0d1117&title_color=fbbf24&icon_color=10b981&text_color=e6edf3&ring_color=fbbf24" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepvelop99&layout=compact&hide_border=true&bg_color=0d1117&title_color=fbbf24&text_color=e6edf3" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepvelop99&theme=github-dark-blue&hide_border=true&ring=22d3ee&fire=6366f1&currStreakLabel=22d3ee&sideLabels=22d3ee" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepvelop99&theme=github-dark-blue&hide_border=true&ring=fbbf24&fire=f97316&currStreakLabel=fbbf24&sideLabels=fbbf24" />
 </div>
 
 <div align="center">
@@ -97,7 +88,7 @@ const hyunseoKoh = {
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=deepvelop99&bg_color=0d1117&color=22d3ee&line=6366f1&point=e6edf3&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=deepvelop99&bg_color=0d1117&color=fbbf24&line=10b981&point=e6edf3&area=true&hide_border=true" />
 </div>
 
 ---
@@ -106,4 +97,4 @@ const hyunseoKoh = {
   <sub>⚡ Powered by curiosity &nbsp;·&nbsp; Rendering reality with AI &nbsp;·&nbsp; One gap at a time</sub>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050017,40:1a0050,100:0a0828&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
