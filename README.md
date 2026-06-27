@@ -39,7 +39,7 @@ My strongest trait is **adaptability** — each of these five projects spans a d
 
 | Year | Paper | Venue | Role |
 |:----:|:------|:-----:|:----:|
-| 2026 | 🔴 **[CulinaryCut](https://github.com/deepvelop99/ECCV26-Culinary)** — Physics-aware VLA Benchmark via Material Point Method | ![](https://img.shields.io/badge/ECCV_2026-Under_Review-f97316?style=flat-square) | **Primary** |
+| 2026 | 🟢 **[CulinaryCut](https://github.com/deepvelop99/ECCV26-Culinary)** — Physics-aware VLA Benchmark via Material Point Method | ![](https://img.shields.io/badge/ECCV_2026-Under_Review-f97316?style=flat-square) | **Primary** |
 | 2026 | 🟢 **CLP** — Real-World Contaminated Lens Protectors Dataset for Robust Segmentation | ![](https://img.shields.io/badge/CVPR_2026-Accepted-2ea44f?style=flat-square) | 2nd Author |
 | 2025 | 🟢 **FEEL** — Emotion-Enriched Text-to-Motion Generation via Unpaired Learning | ![](https://img.shields.io/badge/CVPR_WS_2025-Accepted-2ea44f?style=flat-square) | Co-first * |
 | 2025 | 🟢 **[UDT](https://github.com/deepvelop99/UDT)** — Unsupervised Discovery of Transformations in Diffusion Models | ![](https://img.shields.io/badge/BMVC_2025-Accepted-2ea44f?style=flat-square) | Co-first * |
